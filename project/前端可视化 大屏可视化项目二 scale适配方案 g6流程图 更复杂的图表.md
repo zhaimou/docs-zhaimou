@@ -17,7 +17,7 @@ echarts绘制较为复杂图表，更深入锻炼echarts.
 <body>
 
 <div id="app"></div>
-
+j
 <script>
 
 function setScale(){
