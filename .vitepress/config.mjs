@@ -3,8 +3,10 @@ import  set_sidebar from "./utils/auto_sidebar.js";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+    base:"/docs-zhaimou/",
+
     head: [
-    ['link', { rel: 'icon', href: '/favicon.svg' }]
+    ['link', { rel: 'icon', href: '/docs-zhaimou/favicon.svg' }]
   ],
   title: "ZhaiMou' Blog",
   description: "A VitePress Site",
